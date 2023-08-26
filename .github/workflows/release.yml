@@ -29,7 +29,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           RUSTTARGET: ${{ matrix.target }}
-          SRC_DIR: '.'
+          # SRC_DIR: '.'
           ARCHIVE_TYPES: ${{ matrix.archive }}
-          PRE_BUILD: './scripts/pre-release.sh'
-          POST_BUILD: './scripts/post-release.sh'
+          # PRE_BUILD: './scripts/pre-release.sh'
+          # POST_BUILD: './scripts/post-release.sh'
