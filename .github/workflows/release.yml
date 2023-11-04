@@ -17,3 +17,4 @@ jobs:
         with:
           release-type: rust
           package-name: rust-build-release-test
+          commit-search-depth: 4
