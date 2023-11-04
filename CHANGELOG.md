@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/d-strobel/rust-build-release-test/compare/v0.1.0...v0.2.0) (2023-11-04)
+
+
+### Features
+
+* add new line ([9d099b8](https://github.com/d-strobel/rust-build-release-test/commit/9d099b89ea5d9c26710b30ce9f036ac0050b8408))
+
 ## 0.1.0 (2023-11-04)
 
 
